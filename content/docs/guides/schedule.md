@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    Programming Assignmentrent: ""
+    Programming Assignments: ""
     identifier: "schedule-a99053bd9b7d35673dc0c5449a2f2285"
 weight: 1
 toc: true
